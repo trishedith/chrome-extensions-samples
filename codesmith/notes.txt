@@ -1,6 +1,32 @@
+
+/*        
+    const foodName = data.image.split('/');
+    const foodNameText = document.createElement('p');
+    foodName.textContent = foodName;
+*/
+const imageUrlText = testFood.src;
+https://foodish-api.com/images/
+/*
+if(imageUrlText.includes('images/') {
+    console.log()
+}
+*/
+// we would find the meta data from the image 
+//take this text and put it into something
+
+// search the current provided image URL 
+//find word after "images/" and before next '/' 
+//store an object cache of labels
+
+
+previous code leftovers: 
+
+
+
+
 // console.log(foodApi())
 
-}
+
 /*
 document.addEventListener('DOMContentLoaded', async () => {
   const title = document.createElement('h1');
