@@ -13,6 +13,9 @@ const testFood = document.createElement('img');
         const body = document.querySelector('body');
         // put url link to src
         testFood.src = data.image;
+        testFood.style.height = '400px';
+        testFood.style.width = '400px';
+        
         body.appendChild(testFood);
         // console.log(data[0])
 
