@@ -20,7 +20,7 @@ const button = document.createElement('button');
  
  button.style.height = '50px';
  button.style.width = '100px';
- //button.textContent = 'Randomize'
+ button.textContent = 'Randomize'
 body.appendChild(button);
 
 function fetchFood(){
